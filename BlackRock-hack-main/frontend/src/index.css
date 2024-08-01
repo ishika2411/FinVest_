@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.monoFont{
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+.transparent{
+    background: rgba(76, 175, 80, 0)
+}
+
+.custMenu{
+   color: white;
+}
+
+.opac{
+    color: #1D1D1D;
+    opacity: 0.3;
+}
